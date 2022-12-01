@@ -1,0 +1,66 @@
+/* Google Imports */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+/* font-family: 'Bebas Neue', cursive; */
+/* font-family: 'Lobster Two', cursive; */
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.slide {
+    height: 650px;
+}
+
+.hero {
+    background-image: url("../img/pexels-mads-thomsen-2739013.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pexels-grafixartphoto-samir-belhamra-4254553.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-2 {
+    background-image: url("../img/pexels-asad-photo-maldives-3155666.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.116), rgba(0, 0, 0, 0.411)), url("../img/pexels-sam-kolder-2387873.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-4 {
+    background-image: url("../img/pexels-pixabay-160483.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer {
+    height: 200px;
+}
+
+.fa-brands{
+    color: #000000;
+}
